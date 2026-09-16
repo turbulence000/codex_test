@@ -1,0 +1,29 @@
+# AURIX Development Studio / Eclipse build output
+/Debug/
+/Release/
+/.ads/
+*.launch
+
+# Compiler and linker artifacts
+*.o
+*.d
+*.src
+*.elf
+*.hex
+*.map
+*.mdf
+*.opt
+
+# Temporary files
+temp.txt
+*.tmp
+*.bak
+*.swp
+*~
+
+# Editor and operating-system metadata
+/.vscode/
+/.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
