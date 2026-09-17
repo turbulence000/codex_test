@@ -23,7 +23,7 @@ int core0_main(void)
        //Print_ICM42688_Data();
         //route_print_info();
         //ips200_show_int(8*sizeof("g_route.running"),100,g_route.running,4);
-
+        //hahahahahahahahhahhahahahaah
 
     }
 }
